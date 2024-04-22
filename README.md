@@ -34,6 +34,12 @@ Simplify database administration tasks with this versatile PyQt5 GUI application
 - MongoDB Atlas
 - AstraDB Cassandra
 
+## IMP:
+
+https://www.youtube.com/watch?v=_YlHsxCW9ig
+
+https://www.youtube.com/watch?v=KYpSCJ9BGFc
+
 
 ## Installation
 
