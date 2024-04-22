@@ -12,6 +12,7 @@ Simplify database administration tasks with this versatile PyQt5 GUI application
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [IMP:](#IMP:)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
