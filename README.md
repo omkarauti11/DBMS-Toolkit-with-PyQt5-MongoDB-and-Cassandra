@@ -7,16 +7,14 @@ A collection of GUI applications for managing student records using different da
 
 Simplify database administration tasks with this versatile PyQt5 GUI application, designed to seamlessly connect to MongoDB Atlas, DataStax AstraDB, and local MongoDB/Cassandra databases, providing an intuitive interface for managing student records, data streams, and more.
 
-
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [IMP:](#IMP:)
+- [IMP:](#imp)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
 
 ## Features
 
@@ -24,7 +22,6 @@ Simplify database administration tasks with this versatile PyQt5 GUI application
 - Input validation for email format and phone number format.
 - Error handling for database interactions.
 - Connection to various database systems including MongoDB Atlas, AstraDB Cassandra, local MongoDB, and local Cassandra.
-
 
 ## Technologies Used
 
@@ -37,9 +34,9 @@ Simplify database administration tasks with this versatile PyQt5 GUI application
 
 ## IMP:
 
-https://www.youtube.com/watch?v=_YlHsxCW9ig
 
-https://www.youtube.com/watch?v=KYpSCJ9BGFc
+- https://www.youtube.com/watch?v=_YlHsxCW9ig
+- https://www.youtube.com/watch?v=KYpSCJ9BGFc
 
 
 ## Installation
